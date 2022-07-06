@@ -1,0 +1,32 @@
+{
+    "schemaType": "VISUALIZATION",
+    "id": "viz-2",
+    "displayName": "My Second Custom Viz",
+    "description": "",
+    "configuration": [
+        {
+            "name": "pollIntervalSeconds",
+            "title": "Poll Interval (seconds)",
+            "description": "",
+            "type": "number"
+        },
+        {
+            "name": "accountId",
+            "title": "Account ID",
+            "description": "Account ID to be associated with the query",
+            "type": "account-id"
+        },
+        {
+            "name": "query",
+            "title": "Query",
+            "description": "NRQL query for visualization",
+            "type": "nrql"
+        },
+        {
+            "name": "useTimePicker",
+            "title": "Use time picker",
+            "description": "",
+            "type": "boolean"
+        }
+    ]
+}
