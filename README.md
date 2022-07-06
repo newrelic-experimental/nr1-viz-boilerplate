@@ -6,6 +6,8 @@ Demonstrates the use of:
 - Hooks: useState, useEffect
 - NR1 components: NrqlQuery, PlatformState, NerdGraphQuery etc.
 - Custom visualization configuration items
+- Custom data polling
+- Handling errors, loading, time pickers etc.
 
 ## Prerequisites
 Follow the setup here:
