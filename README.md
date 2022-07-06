@@ -5,7 +5,6 @@ This boilerplate aims to provide a quick start into NR1 custom visualization dev
 Demonstrates the use of:
 - Hooks: useState, useEffect
 - NR1 components: NrqlQuery, PlatformState, NerdGraphQuery etc.
-- 
 - Custom visualization configuration items
 
 ## Prerequisites
