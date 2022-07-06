@@ -1,0 +1,26 @@
+{
+    "schemaType": "VISUALIZATION",
+    "id": "viz-1",
+    "displayName": "My First Custom Viz",
+    "description": "",
+    "configuration": [
+        {
+            "name": "accountId",
+            "title": "Account ID",
+            "description": "Account ID to be associated with the query",
+            "type": "account-id"
+        },
+        {
+            "name": "query",
+            "title": "Query",
+            "description": "NRQL query for visualization",
+            "type": "nrql"
+        },
+        {
+            "name": "useTimePicker",
+            "title": "Use time picker",
+            "description": "",
+            "type": "boolean"
+        }
+    ]
+}
